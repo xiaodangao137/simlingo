@@ -127,8 +127,8 @@ done
 
 ## Data Generation
 
-> 📖 **详细文档**: 完整的数据生成文档请参考 [docs/DATA_GENERATION.md](docs/DATA_GENERATION.md)  
-> 📖 **Detailed Documentation**: For comprehensive data generation documentation, see [docs/DATA_GENERATION.md](docs/DATA_GENERATION.md)
+> 📖 **详细文档 | Detailed Documentation**: [docs/DATA_GENERATION.md](docs/DATA_GENERATION.md)  
+> ⚙️ **配置示例 | Configuration Examples**: [docs/EXAMPLE_CONFIG.md](docs/EXAMPLE_CONFIG.md)
 
 If you download our dataset from Huggingface, you don't need to follow any of the steps from this section.
 If you only want to perform closed-loop driving evaluation, there is no need to download our dataset.

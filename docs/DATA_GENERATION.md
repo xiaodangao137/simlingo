@@ -39,6 +39,11 @@ SimLingo 的数据生成管道包含四个主要阶段：
 - OpenAI API key (用于数据增强)
 - 足够的存储空间 (建议 > 1TB)
 
+### 配置示例 (Configuration Examples)
+
+参考 [docs/EXAMPLE_CONFIG.md](EXAMPLE_CONFIG.md) 获取详细的配置示例和模板。
+See [docs/EXAMPLE_CONFIG.md](EXAMPLE_CONFIG.md) for detailed configuration examples and templates.
+
 ## 驾驶数据生成 (Driving Data Generation)
 
 ### 核心组件 (Core Components)
